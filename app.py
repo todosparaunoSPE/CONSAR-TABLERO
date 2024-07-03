@@ -27,12 +27,15 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-# Create two buttons that link to Google
+# Create 3 buttons that link to Google
 if st.button('Ir a Cuentas Administradas por las AFORE'):
     st.write('[Cuentas Administradas por las AFORE](https://consar-cuentas-appistradas-por-las-afore-hlhymabth4creod7bafth.streamlit.app/)')
 
 if st.button('Ir a Traspasos'):
     st.write('[Traspasos](https://consar-traspasos-gdkncxjm8amqr5vr2yyamd.streamlit.app/)')
+
+if st.button('Ir a Indicador de Rendimiento Neto (IN) de las SIEFORES'):
+    st.write('[Indicador de Rendimiento Neto (IN) de las SIEFORES](https://consar-irn-f8qd7noi8arngh2p7pzcgf.streamlit.app/)')
 
 # Add a section in the sidebar
 st.sidebar.title("Ayuda")
