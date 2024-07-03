@@ -28,7 +28,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Create two buttons that link to Google
-if st.button('Ir a Cuenatas Administradas por las AFORE'):
+if st.button('Ir a Cuentas Administradas por las AFORE'):
     st.write('[Cuentas Administradas por las AFORE](https://consar-cuentas-appistradas-por-las-afore-hlhymabth4creod7bafth.streamlit.app/)')
 
 if st.button('Ir a Traspasos'):
