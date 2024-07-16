@@ -34,6 +34,9 @@ if st.button('Ir a Cuentas Administradas por las AFORE'):
 if st.button('Ir a Traspasos'):
     st.write('[Traspasos](https://consar-traspasos-gdkncxjm8amqr5vr2yyamd.streamlit.app/)')
 
+if st.button('Ir a Montos'):
+    st.write('[Montos](https://consar-montos-nhbjnm56txbnz5rvrmrd7z.streamlit.app/)')
+
 if st.button('Ir a Indicador de Rendimiento Neto (IRN) de las SIEFORES'):
     st.write('[Indicador de Rendimiento Neto (IRN) de las SIEFORES](https://consar-irn-f8qd7noi8arngh2p7pzcgf.streamlit.app/)')
 
