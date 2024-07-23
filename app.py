@@ -28,23 +28,23 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Create 3 buttons that link to Google
-if st.button('Ir a Recursos registrados en las AFORE'):
-    st.write('[Recursos registrados en las AFORE](https://consar-recursos-registrados-en-las-afore-elnsgisiblu5ruozlqb3d.streamlit.app/)')
+if st.button('Ir a RECURSOS REGISTRADOS EN LAS AFORE'):
+    st.write('[RECURSOS REGISTRADOS EN LAS AFORE](https://consar-recursos-registrados-en-las-afore-elnsgisiblu5ruozlqb3d.streamlit.app/)')
 
 if st.button('Ir a ENTRADA Y SALIDA DE RECURSOS DE LAS AFORES'):
     st.write('[ENTRADA Y SALIDA DE RECURSOS DE LAS AFORES](https://consar-entrada-y-salida-de--recursos-de-las-afores-nrnyavoced2.streamlit.app/)')
 
-if st.button('Ir a Cuentas Administradas por las AFORE'):
-    st.write('[Cuentas Administradas por las AFORE](https://consar-cuentas-appistradas-por-las-afore-hlhymabth4creod7bafth.streamlit.app/)')
+if st.button('Ir a CUENTAS ADMINISTRADAS POR LAS AFORE'):
+    st.write('[CUENTAS ADMINISTRADAS POR LAS AFORE](https://consar-cuentas-appistradas-por-las-afore-hlhymabth4creod7bafth.streamlit.app/)')
 
-if st.button('Ir a Traspasos'):
-    st.write('[Traspasos](https://consar-traspasos-gdkncxjm8amqr5vr2yyamd.streamlit.app/)')
+if st.button('Ir a TRASPASOS'):
+    st.write('[TRASPASOS](https://consar-traspasos-gdkncxjm8amqr5vr2yyamd.streamlit.app/)')
 
-if st.button('Ir a Montos'):
-    st.write('[Montos](https://consar-montos-nhbjnm56txbnz5rvrmrd7z.streamlit.app/)')
+if st.button('Ir a MONTOS'):
+    st.write('[MONTOS](https://consar-montos-nhbjnm56txbnz5rvrmrd7z.streamlit.app/)')
 
-if st.button('Ir a Indicador de Rendimiento Neto (IRN) de las SIEFORES'):
-    st.write('[Indicador de Rendimiento Neto (IRN) de las SIEFORES](https://consar-irn-f8qd7noi8arngh2p7pzcgf.streamlit.app/)')
+if st.button('Ir a INDICADOR DE RENDIMIENTO NETO (IRN) DE LAS SIEFORES'):
+    st.write('[INDICADOR DE RENDIMIENTO NETO (IRN) DE LAS SIEFORES](https://consar-irn-f8qd7noi8arngh2p7pzcgf.streamlit.app/)')
 
 # Add a section in the sidebar
 st.sidebar.title("Ayuda")
