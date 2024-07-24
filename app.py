@@ -31,6 +31,9 @@ st.markdown("""
 if st.button('Ir a RECURSOS REGISTRADOS EN LAS AFORE'):
     st.write('[RECURSOS REGISTRADOS EN LAS AFORE](https://consar-recursos-registrados-en-las-afore-elnsgisiblu5ruozlqb3d.streamlit.app/)')
 
+if st.button('Ir a FLUJO DE RECURSOS CANALIZADOS A LAS AFORES'):
+    st.write('[FLUJO DE RECURSOS CANALIZADOS A LAS AFORES](https://a2tnnbzmyvnykjh3r4hsah.streamlit.app/)')
+
 if st.button('Ir a ENTRADA Y SALIDA DE RECURSOS DE LAS AFORES'):
     st.write('[ENTRADA Y SALIDA DE RECURSOS DE LAS AFORES](https://consar-entrada-y-salida-de--recursos-de-las-afores-nrnyavoced2.streamlit.app/)')
 
