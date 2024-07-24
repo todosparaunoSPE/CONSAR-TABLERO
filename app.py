@@ -57,5 +57,5 @@ En esta aplicación puedes encontrar estadísticas de CONSAR. Utiliza los botone
 st.sidebar.markdown("""
     ---
     © 2024. Todos los derechos reservados.
-    Creado por jahoperi.
+    Creado por Javier Horacio Pérez Ricárdez.
 """)
