@@ -54,8 +54,13 @@ En esta aplicación puedes encontrar estadísticas de CONSAR. Utiliza los botone
 
 
 # Aviso de derechos de autor
-st.sidebar.markdown("""
-    ---
-    © 2024. Todos los derechos reservados.
-    Creado por Javier Horacio Pérez Ricárdez.
-""")
+#st.sidebar.markdown("""
+#    ---
+#    © 2024. Todos los derechos reservados.
+#    Creado por Javier Horacio Pérez Ricárdez.
+#""")
+
+# Pie de página en la barra lateral
+st.sidebar.write("© 2024 Todos los derechos reservados")
+st.sidebar.write("© 2024 Creado por: Javier Horacio Pérez Ricárdez")
+st.sidebar.write("PensionISSSTE: Analista UEAP "B")
