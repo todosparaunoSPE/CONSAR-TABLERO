@@ -34,6 +34,9 @@ if st.button('Ir a RECURSOS REGISTRADOS EN LAS AFORE'):
 if st.button('Ir a FLUJO DE RECURSOS CANALIZADOS A LAS AFORES'):
     st.write('[FLUJO DE RECURSOS CANALIZADOS A LAS AFORES](https://a2tnnbzmyvnykjh3r4hsah.streamlit.app/)')
 
+if st.button('Ir a FLUJO DE RETIROS DE LAS CUENTAS INDIVIDUALES EN LAS AFORES'):
+    st.write('[FLUJO DE RETIROS DE LAS CUENTAS INDIVIDUALES EN LAS AFORES](https://consar-flujo-de-retiros-de-las-cuentas-individuales-en-las-afo.streamlit.app/)')
+
 if st.button('Ir a ENTRADA Y SALIDA DE RECURSOS DE LAS AFORES'):
     st.write('[ENTRADA Y SALIDA DE RECURSOS DE LAS AFORES](https://consar-entrada-y-salida-de--recursos-de-las-afores-nrnyavoced2.streamlit.app/)')
 
